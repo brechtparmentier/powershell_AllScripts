@@ -1,0 +1,42 @@
+[submodule "powershell_AddTempAdmin"]
+	path = powershell_AddTempAdmin
+	url = git@github.com:brechtparmentier/powershell_AddTempAdmin.git
+[submodule "powershell_AlgemeneVerzameling"]
+	path = powershell_AlgemeneVerzameling
+	url = git@github.com:brechtparmentier/powershell_AlgemeneVerzameling.git
+[submodule "powershell_backupUserFolderToStick"]
+	path = powershell_backupUserFolderToStick
+	url = git@github.com:brechtparmentier/powershell_backupUserFolderToStick.git
+[submodule "powershell_getWindows11InstalledSoftware"]
+	path = powershell_getWindows11InstalledSoftware
+	url = git@github.com:brechtparmentier/powershell_getWindows11InstalledSoftware.git
+[submodule "powershell_intuneDevicesToGoogleSheets"]
+	path = powershell_intuneDevicesToGoogleSheets
+	url = git@github.com:brechtparmentier/powershell_intuneDevicesToGoogleSheets.git
+[submodule "powershell_intuneScripts"]
+	path = powershell_intuneScripts
+	url = git@github.com:brechtparmentier/powershell_intuneScripts.git
+[submodule "powershell_makeAndFillUserGroupsAzureAD"]
+	path = powershell_makeAndFillUserGroupsAzureAD
+	url = git@github.com:brechtparmentier/powershell_makeAndFillUserGroupsAzureAD.git
+[submodule "powershell_manageIntuneConfigurationProfiles"]
+	path = powershell_manageIntuneConfigurationProfiles
+	url = git@github.com:brechtparmentier/powershell_manageIntuneConfigurationProfiles.git
+[submodule "powershell_MoveToOpruimen"]
+	path = powershell_MoveToOpruimen
+	url = git@github.com:brechtparmentier/powershell_MoveToOpruimen.git
+[submodule "powershell_opHalenIntuneDeviceConfiguraties"]
+	path = powershell_opHalenIntuneDeviceConfiguraties
+	url = git@github.com:brechtparmentier/powershell_opHalenIntuneDeviceConfiguraties.git
+[submodule "powershell_RDPTest"]
+	path = powershell_RDPTest
+	url = git@github.com:brechtparmentier/powershell_RDPTest.git
+[submodule "powershell_setupSSHKeyToLinuxServer"]
+	path = powershell_setupSSHKeyToLinuxServer
+	url = git@github.com:brechtparmentier/powershell_setupSSHKeyToLinuxServer.git
+[submodule "powershell_USBStickInventaris"]
+	path = powershell_USBStickInventaris
+	url = git@github.com:brechtparmentier/powershell_USBStickInventaris.git
+[submodule "powershellMSGraph_getIntuneProfiles"]
+	path = powershellMSGraph_getIntuneProfiles
+	url = git@github.com:brechtparmentier/powershellMSGraph_getIntuneProfiles.git
